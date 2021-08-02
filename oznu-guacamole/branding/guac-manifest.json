@@ -1,0 +1,22 @@
+{
+
+        "guacamoleVersion" : "*",
+        "name" : "Tempname",
+        "namespace" : "tempnamespace",
+        "translations" : [ 
+		"translations/en.json"
+	 ],
+
+	 "css" : [
+                "css/login-override.css"
+         ],
+         
+         "js" : [
+                "js/chat-widget.js"
+         ],
+
+	 "resources" : {
+                "images/iqtrade_logo_black_350.png" : "image/png"
+         }
+}
+
